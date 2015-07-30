@@ -1,6 +1,9 @@
 <?php 
+//opens file
 $file = fopen("black_night.txt", "r") or die("Unable to open file!");
+// read files
 $file_data = fread($file,filesize("black_night.txt"));
+// closes file
 fclose($file);
 ?>
 <!DOCTYPE html>
