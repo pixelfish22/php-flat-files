@@ -1,7 +1,8 @@
 BLACK KNIGHT: None shall pass.
 ARTHUR: What?
 BLACK KNIGHT: None shall pass.
-ARTHUR: I have no quarrel with you, good Sir knight, but I must cross this bridge.
+ARTHUR: I have no quarrel with you, good Sir knight, but I must
+cross this bridge.
 BLACK KNIGHT: Then you shall die.
 ARTHUR: I command you as King of the Britons to stand aside!
 BLACK KNIGHT: I move for no man.
@@ -44,9 +45,13 @@ BLACK KNIGHT: Come 'ere!
 ARTHUR: What are you going to do, bleed on me?
 BLACK KNIGHT: I'm invincible!
 ARTHUR: You're a loony.
-BLACK KNIGHT: The Black Knight always triumphs! Have at you! Come on then.
+BLACK KNIGHT: The Black Knight always triumphs!
+Have at you! Come on then.
 [whop]
 [ARTHUR chops the BLACK KNIGHT's other leg off]
 BLACK KNIGHT: All right; we'll call it a draw.
 ARTHUR: Come, Patsy.
-BLACK KNIGHT: Oh, oh, I see, running away then. You (blaggards)! Come back here and take what's coming to you. I'll bite your legs off!
+BLACK KNIGHT: Oh, oh, I see, running away then. You yellow
+bastards! Come back here and take what's coming to you. I'll bite
+your legs off!
+Boy do I like this
